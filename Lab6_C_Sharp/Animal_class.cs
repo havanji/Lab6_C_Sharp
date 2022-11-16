@@ -117,13 +117,4 @@ namespace Lab6_C_Sharp
             return $"This is a Cat, Color = {Color}, Weight = {Weight}, TailLength = {TailLength}";
         }
     }
-
-
-
-
-
-
-
-
-
 }
